@@ -1,7 +1,7 @@
 print("Milk")
 print("Bread")
 print("Bananas")
+print("apples")
 print("Peaches")
 print("Frozen Pizza")
-print("Cookies")
 print("Tomatoes")
